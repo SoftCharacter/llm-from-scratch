@@ -672,8 +672,8 @@ BPE tokenizer 训练主要是 CPU 任务，涉及文件读取、正则切分、�
 
 ## 致谢
 
+- siyuan-harry：本项目的从零实现理念和训练流程参考了他的代码实现。
 - Stanford CS336：本项目的从零实现理念和训练流程参考了该课程的方向。
-- Xuying Li：感谢对 CS336 课程的推荐。
 
 ## License
 
